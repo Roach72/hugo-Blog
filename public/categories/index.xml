@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on مدونتي</title>
+    <link>your-domain/categories/</link>
+    <description>Recent content in Categories on مدونتي</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jun 2021 00:47:45 +0200</lastBuildDate><atom:link href="your-domain/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>قسم اول</title>
+      <link>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%A7%D9%88%D9%84/</link>
+      <pubDate>Wed, 02 Jun 2021 00:47:45 +0200</pubDate>
+      
+      <guid>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%A7%D9%88%D9%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم ثانى</title>
+      <link>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%86%D9%89/</link>
+      <pubDate>Wed, 02 Jun 2021 00:47:32 +0200</pubDate>
+      
+      <guid>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%86%D9%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم ثالث</title>
+      <link>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%84%D8%AB/</link>
+      <pubDate>Tue, 01 Jun 2021 19:22:11 +0200</pubDate>
+      
+      <guid>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%84%D8%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم رابع</title>
+      <link>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%B1%D8%A7%D8%A8%D8%B9/</link>
+      <pubDate>Tue, 01 Jun 2021 19:21:59 +0200</pubDate>
+      
+      <guid>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%B1%D8%A7%D8%A8%D8%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم خامس</title>
+      <link>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%AE%D8%A7%D9%85%D8%B3/</link>
+      <pubDate>Tue, 01 Jun 2021 19:21:43 +0200</pubDate>
+      
+      <guid>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%AE%D8%A7%D9%85%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم سادس</title>
+      <link>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%B3%D8%A7%D8%AF%D8%B3/</link>
+      <pubDate>Sun, 30 May 2021 20:09:23 +0200</pubDate>
+      
+      <guid>your-domain/categories/%D9%82%D8%B3%D9%85-%D8%B3%D8%A7%D8%AF%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
